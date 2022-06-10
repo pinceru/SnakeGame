@@ -16,11 +16,11 @@
 ##### - Seu objetivo é marcar o máximo de pontos possível, sem tocar seu rosto no seu corpo.
 
 ## Requisitos:
-##### - Java 1.8
+##### - `Java 1.8`
 
 ## Istruções:
-#### Baixar o arquivo "SnakeGame-WelingtonPincer.jar".
-#### Navegar até o diretŕio com o arquivo e rodar o comando "java -jar SnakeGame-WelingtonPincer.jar".
+#### Baixar o arquivo `SnakeGame-WelingtonPincer.jar`.
+#### Navegar até o diretŕio com o arquivo e rodar o comando `java -jar SnakeGame-WelingtonPincer.jar`.
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
