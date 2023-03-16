@@ -18,7 +18,7 @@
 ## Requisitos:
 ##### - `Java 1.8`
 
-## Istruções:
+## Instruções:
 #### Baixar o arquivo `SnakeGame-WelingtonPincer.jar`.
 #### Navegar até o diretŕio com o arquivo e rodar o comando `java -jar SnakeGame-WelingtonPincer.jar`.
 
